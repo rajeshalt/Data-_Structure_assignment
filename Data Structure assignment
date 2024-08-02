@@ -110,11 +110,9 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "ea2460d7-8e5d-4817-a65a-7dc9f0c76c5e",
+   "cell_type": "markdown",
+   "id": "d995f806-a2aa-4a29-a5fe-46ec6600665a",
    "metadata": {},
-   "outputs": [],
    "source": [
     "# Explain the key features of lists in Python\n",
     "\n",
@@ -292,11 +290,9 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "294330f7-2ef2-49a7-90fa-960113105039",
+   "cell_type": "markdown",
+   "id": "0e376dd6-9609-4157-a799-237c2d8c0d30",
    "metadata": {},
-   "outputs": [],
    "source": [
     "#  Compare and contrast tuples and lists with examples\n",
     "\n",
@@ -435,11 +431,9 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "0788e637-18bd-4343-8ac8-86972bf3125d",
+   "cell_type": "markdown",
+   "id": "1f77f0e3-f534-4dd0-ab09-98ddaf655902",
    "metadata": {},
-   "outputs": [],
    "source": [
     "#  Discuss the use cases of tuples and sets in Python programming\n",
     "\n",
@@ -510,11 +504,9 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "17b2fb8e-cf67-4ced-be59-7b79abb6df94",
+   "cell_type": "markdown",
+   "id": "231d979a-a33d-41e0-a94a-1b9560f13e3e",
    "metadata": {},
-   "outputs": [],
    "source": [
     "#  Describe how to add, modify, and delete items in a dictionary with examples\n",
     "\n",
@@ -642,11 +634,9 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "193139af-bc59-4b7d-b8e5-d6cdca8e8c3c",
+   "cell_type": "markdown",
+   "id": "b7928939-27b7-4808-9442-ea6ef1116bf5",
    "metadata": {},
-   "outputs": [],
    "source": [
     "#  Discuss the importance of dictionary keys being immutable and provide examples\n",
     "\n",
